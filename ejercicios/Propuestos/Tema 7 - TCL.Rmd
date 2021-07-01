@@ -1,5 +1,5 @@
 ---
-title: "Ejercicios Tema 7 - Ley de los grandes números y Teorema Central del Límite"
+title__: "Ejercicios Tema 7 - Ley de los grandes números y Teorema Central del Límite"
 author: "Ricardo Alberich, Juan Gabriel Gomila y Arnau Mir"
 date: "Curso de Probabilidad y Variables Aleatorias con R y Python"
 output: pdf_document
